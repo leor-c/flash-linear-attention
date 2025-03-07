@@ -31,6 +31,7 @@ log.*
 *.ini
 *.yml
 *.yaml
+!docker-compose.yaml
 
 # pycache
 __pycache__
